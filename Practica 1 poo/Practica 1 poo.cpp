@@ -75,7 +75,7 @@ int main()
 		case Ford:
 			cout << group[opc].model << endl << "Precio: " << group[opc].precio << endl;
 			break;
-		default:
+		default: //Hecho por Alberto Adrian Garcia Camacho y subido a github dedli54
 			cout << "Favor de elegir una opcion valida" << endl;
 			break;
 			
